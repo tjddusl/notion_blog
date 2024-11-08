@@ -4,16 +4,16 @@ import ThemeToggle from './theme'
 
 const navItems = {
   '/': {
-    name: 'home',
+    name: '',
   },
   '/blog': {
-    name: 'blog',
+    name: '블로',
   },
   '/guide': {
     name: 'guide',
   },
   'https://github.com/notionpresso': {
-    name: 'github',
+    name: '깃허',
   },
 }
 
