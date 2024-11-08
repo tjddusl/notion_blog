@@ -3,11 +3,11 @@ import post2 from '../notion-data/127ce18c-fd83-805c-bebd-d6772e18bf02.json'
 
 const posts = [
   {
-    title: "Maximizing the Benefits of BFF Pattern in API Design",
-    slug: "api-design-in-bff",
+    title: "첫번째 블로그 포스트",
+    slug: "first-post",
     content: post1,
-    date: "2023-10-22",
-    description: "Exploring the shift from domain-centric to data-centric API endpoints after introducing BFF. This article introduces BFF and DDD concepts, then proposes API endpoint design strategies in the context of the BFF pattern.",
+    date: "2024-11-08",
+    description: "블로그를 시작하면서 점점 성장해나가길 . .",
     image: undefined
   },
   {
